@@ -25,7 +25,7 @@ description              : "An amazing CV-website."
 url                      : "https://juchmp.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "juchmp/juchmp.github.io"
-teaser                   : "/assets/images/PortraitPic.jpg"
+teaser                   : "/assets/PortraitPic.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
